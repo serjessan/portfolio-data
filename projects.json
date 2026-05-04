@@ -1,0 +1,137 @@
+[
+  {
+    "id": "birdix",
+    "category": "app",
+    "categoryLabel": "App Development",
+    "categoryColor": "#7c9fff",
+    "name": "BIRDiX — Golf App",
+    "description": "Mobile app designed and developed for golf — UX flow, UI design, full branding and implementation.",
+    "tags": ["Figma", "Supabase", "UX/UI", "Branding", "Mobile"],
+    "bgColor": "#1a5c2a",
+    "logoUrl": "https://res.cloudinary.com/dtlmnylmo/image/upload/v1777464768/BIRDIX_l4rtsc.png",
+    "images": [
+      "https://res.cloudinary.com/dtlmnylmo/image/upload/v1777464768/BIRDIX_l4rtsc.png",
+      "https://res.cloudinary.com/dtlmnylmo/image/upload/v1777464768/1_ajqxr0.png"
+    ],
+    "fullDescription": "BIRDiX is a golf app — designed and developed from scratch with full branding, UX flow, UI design and implementation. The project covers the complete product cycle: brand identity, app design in Figma and development using Supabase as the backend.",
+    "details": {
+      "Type": "App Design, Dev & Branding",
+      "Tools": "Figma, Supabase, Illustrator",
+      "Scope": "Brand + Full App",
+      "Focus": "UX, UI, Branding, Dev"
+    },
+    "link": null
+  },
+  {
+    "id": "open-ferias",
+    "category": "brand",
+    "categoryLabel": "Branding & Event",
+    "categoryColor": "#e8a0a0",
+    "name": "Open de Ferias Salamanca",
+    "description": "Full branding, sponsorship strategy and competition proposal for a golf tournament in Salamanca.",
+    "tags": ["Illustrator", "InDesign", "Branding", "Sponsorship", "Event"],
+    "bgColor": "#1a0505",
+    "logoUrl": "https://res.cloudinary.com/dtlmnylmo/image/upload/v1777464755/OPEN_FERIAS_ROJO_tjkwpe.png",
+    "images": [
+      "https://res.cloudinary.com/dtlmnylmo/image/upload/v1777464755/OPEN_FERIAS_ROJO_tjkwpe.png",
+      "https://res.cloudinary.com/dtlmnylmo/image/upload/v1777464829/IMG_4260_pgwakn.jpg",
+      "https://res.cloudinary.com/dtlmnylmo/image/upload/v1777464756/ChatGPT_Image_1_jul_2025_11_35_43_y8gjxa.png"
+    ],
+    "fullDescription": "Worked on the full branding and identity of the Open de Ferias Salamanca — a golf tournament combining sport, gastronomy and the culture of Salamanca's Ferias. Created the logo, all print materials including sponsor signs, banners, caddy boards, menus and trophies. Also managed the sponsorship strategy connecting major brands including Audi, Michelin and Vredestein.",
+    "details": {
+      "Type": "Brand Identity & Event Strategy",
+      "Location": "La Valmuza Golf, Salamanca",
+      "Scope": "Logo, Print, Sponsorship, Event",
+      "Sponsors": "Audi · Michelin · Vredestein · more"
+    },
+    "link": "https://opendeferias.my.canva.site/"
+  },
+  {
+    "id": "petra",
+    "category": "brand",
+    "categoryLabel": "Branding & Packaging",
+    "categoryColor": "#f7c96a",
+    "name": "Petra Ibéricos — Brand Identity",
+    "description": "Complete brand identity and packaging for a premium Iberian products brand.",
+    "tags": ["Photoshop", "Illustrator", "Packaging", "InDesign"],
+    "bgColor": "#f8f4e3",
+    "logoUrl": "https://res.cloudinary.com/dtlmnylmo/image/upload/v1777464755/logo_PETRA_DORADO_tjkwpe.png",
+    "images": [
+      "https://res.cloudinary.com/dtlmnylmo/image/upload/v1777464755/logo_PETRA_DORADO_tjkwpe.png"
+    ],
+    "fullDescription": "Full brand identity for Petra Ibéricos, a premium Spanish Iberian products brand — logo, colour palette, typography and complete packaging design for Jamón, Lomo and Chorizo de Bellota. Every decision was crafted to communicate premium quality and Spanish tradition.",
+    "details": {
+      "Type": "Brand Identity & Packaging",
+      "Tools": "Illustrator, Photoshop, InDesign",
+      "Scope": "Full brand + product packaging",
+      "Palette": "Black · Ivory · Old Gold · Burgundy"
+    },
+    "link": "https://serjessan.wixsite.com/petra-ibericos"
+  },
+  {
+    "id": "invel",
+    "category": "web",
+    "categoryLabel": "Web Design",
+    "categoryColor": "#7c9fff",
+    "name": "INVEL — Business Website",
+    "description": "Designed and developed the corporate website for INVEL — from UX strategy to final launch.",
+    "tags": ["Wix", "UX/UI", "Canva", "Responsive"],
+    "bgColor": "#f0f4ff",
+    "logoUrl": "https://res.cloudinary.com/dtlmnylmo/image/upload/v1777464755/INVEL_logo_PNG_zq58rx.png",
+    "images": [
+      "https://res.cloudinary.com/dtlmnylmo/image/upload/v1777464755/INVEL_logo_PNG_zq58rx.png"
+    ],
+    "fullDescription": "Designed and developed the corporate website for INVEL — from UX strategy and content structure to wireframing and final design. Focused on clean corporate aesthetics, brand consistency and mobile-first responsive layout.",
+    "details": {
+      "Type": "Web Design & Development",
+      "Tools": "Wix / WordPress, Canva, Figma",
+      "Client": "INVEL",
+      "Focus": "UX, Corporate Design, Responsive"
+    },
+    "link": "https://serjessan.wixsite.com/industrias-velasco"
+  },
+  {
+    "id": "petra-store",
+    "category": "web",
+    "categoryLabel": "E-Commerce",
+    "categoryColor": "#c47fff",
+    "name": "Petra Ibéricos — Online Store",
+    "description": "Full e-commerce store on Wix — product pages, brand integration and conversion-focused layout.",
+    "tags": ["Wix", "E-Commerce", "UX", "Branding"],
+    "bgColor": "#f8f4e3",
+    "logoUrl": "https://res.cloudinary.com/dtlmnylmo/image/upload/v1777464755/logo_PETRA_DORADO_tjkwpe.png",
+    "images": [
+      "https://res.cloudinary.com/dtlmnylmo/image/upload/v1777464755/logo_PETRA_DORADO_tjkwpe.png"
+    ],
+    "fullDescription": "Designed and built the complete e-commerce store for Petra Ibéricos on Wix — integrating the full brand identity into the shopping experience. Product pages for the full range, conversion-focused layout and seamless brand consistency.",
+    "details": {
+      "Type": "E-Commerce Design & Build",
+      "Platform": "Wix",
+      "Client": "Petra Ibéricos",
+      "Focus": "UX, Conversion, Brand Integration"
+    },
+    "link": "https://serjessan.wixsite.com/petra-ibericos"
+  },
+  {
+    "id": "birdix-event",
+    "category": "event",
+    "categoryLabel": "Event Strategy",
+    "categoryColor": "#4ff7a2",
+    "name": "Open de Ferias — Tournament Briefing",
+    "description": "Full event briefing, communication strategy and sponsorship outreach for Open de Ferias Salamanca.",
+    "tags": ["Canva", "Strategy", "Sponsorship", "Comms"],
+    "bgColor": "#0d0505",
+    "logoUrl": "https://res.cloudinary.com/dtlmnylmo/image/upload/v1777464755/OPEN_FERIAS_ROJO_tjkwpe.png",
+    "images": [
+      "https://res.cloudinary.com/dtlmnylmo/image/upload/v1777464755/OPEN_FERIAS_ROJO_tjkwpe.png"
+    ],
+    "fullDescription": "Full event strategy and briefing for the Open de Ferias golf tournament — event concept, communication plan, stakeholder management and end-to-end sponsorship outreach. Connected businesses including Audi, Michelin and Vredestein as official sponsors.",
+    "details": {
+      "Type": "Event Strategy & Production",
+      "Tools": "Canva, PowerPoint, Excel",
+      "Event": "Open de Ferias Salamanca",
+      "Focus": "Strategy, Briefing, Sponsorship"
+    },
+    "link": "https://opendeferias.my.canva.site/"
+  }
+]
